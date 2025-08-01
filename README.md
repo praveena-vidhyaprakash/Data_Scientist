@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Data Scientist – Machine Learning Algorithms
 
 This repository contains a collection of **Machine Learning algorithms** organized by **Supervised** and **Unsupervised Learning** methods, along with links to respective GitHub repositories for each algorithm.
@@ -46,14 +46,4 @@ Unsupervised learning uses **unlabeled data** to find patterns and relationships
 
 ---
 
-## 📌 Notes
 
-- Replace the example repositories with your own implementations if needed.  
-- This structure is ideal for **Data Science portfolio projects** or **Machine Learning learning paths**.  
-- Add badges, examples, and datasets to enhance the README.
-
----
-=======
-# Data_Scientist
-
->>>>>>> 6fef8fa08d06ecced66106f2f7256851c8db2c5c

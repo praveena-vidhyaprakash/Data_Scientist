@@ -11,22 +11,22 @@ Supervised learning uses labeled data to train models for predictions. It is div
 
 ### 1. Classification
 
-- **Decision Trees** – [Decision Tree Repo](https://github.com/pb111/Decision-Tree-Classification)  
-- **Random Forest** – [Random Forest Repo](https://github.com/LJadhav25/Decision-Tree-Random-Forest-Algorithm-Data-Science-)  
+- **Decision Trees** – [Decision Tree Repo](https://github.com/praveena-vidhyaprakash/Travel_interest_app)  
+- **Random Forest** – [Random Forest Repo](https://github.com/praveena-vidhyaprakash/Student_Career_Path_Predictor)  
 - **SVM (Support Vector Machines)** – [SVM Repo](https://github.com/praveena-vidhyaprakash/Breast_Cancer_Pred)  
-- **KNN (K-Nearest Neighbors)** – [KNN Repo](https://github.com/ghimiresunil/Scratch-implementation-of-KNN)  
+- **KNN (K-Nearest Neighbors)** – [KNN Repo](https://github.com/praveena-vidhyaprakash/Song_Gernre_Classifier)  
 - **Logistic Regression** – [Logistic Regression Repo](https://github.com/praveena-vidhyaprakash/Sentiment_predictor)  
-- **Naive Bayes** – [Naive Bayes Repo](https://github.com/shiivashaakeri/Naive-Bayes-Classifier-From-Scratch)  
-- **Gradient Boosting** – [Gradient Boosting Repo](https://github.com/dmlc/xgboost)
+- **Naive Bayes** – [Naive Bayes Repo](https://github.com/praveena-vidhyaprakash/Play_Tennis_Predictor-)  
+- **Gradient Boosting** – [Gradient Boosting Repo](https://github.com/praveena-vidhyaprakash/Music_Skip_Predictor)
 
 ---
 
 ### 2. Regression
 
 - **Linear Regression** – [Linear Regression Repo](https://github.com/praveena-vidhyaprakash/Monthly_Spend_Predictor)  
-- **Ridge Regression** – [Ridge Regression Repo](https://github.com/akash18tripathi/Linear-Regression-from-Scratch)  
-- **Lasso Regression** – [Lasso Regression Repo](https://github.com/akash18tripathi/Linear-Regression-from-Scratch)  
-- **Elastic Net Regression** – [Elastic Net Repo](https://github.com/marcogdepinto/Python-for-Data-Analysis-and-Machine-Learning)
+- **Ridge Regression** – [Ridge Regression Repo](https://github.com/praveena-vidhyaprakash/Student_Grade_Predictor)  
+- **Lasso Regression** – [Lasso Regression Repo](https://github.com/praveena-vidhyaprakash/House_Prediction_App)  
+- **Elastic Net Regression** – [Elastic Net Repo](https://github.com/praveena-vidhyaprakash/Job_Acceptance_Prediction)
 
 ---
 

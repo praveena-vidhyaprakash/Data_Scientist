@@ -38,11 +38,11 @@ Unsupervised learning uses **unlabeled data** to find patterns and relationships
 
 - **K-Means** – [K-Means Repo](https://github.com/praveena-vidhyaprakash/Spotify-Segmentation-App)  
 - **Hierarchical Clustering** – [Hierarchical Clustering Repo](https://github.com/topics/hierarchical-clustering)  
-- **DBSCAN** – [DBSCAN Repo](https://github.com/topics/dbscan)
+- **DBSCAN** – [DBSCAN Repo](https://github.com/praveena-vidhyaprakash/Tourist_Attraction)
 
 ### 2. Dimensionality Reduction
 
-- **PCA (Principal Component Analysis)** – [PCA Repo](https://github.com/topics/principal-component-analysis)
+- **PCA (Principal Component Analysis)** – [PCA Repo](https://github.com/praveena-vidhyaprakash/Shopping_Habbit)
 
 ---
 
